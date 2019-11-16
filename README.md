@@ -1,4 +1,4 @@
-# Fake Directory
+# Fake Directory [![Build Status](https://travis-ci.com/cookiedragon234/fakedirectory.svg?branch=master)](https://travis-ci.com/cookiedragon234/fakedirectory)
 Exploits a flaw in pretty much every zip file parser, which treats files ending with a `/` as a directory, even if they aren't.
 
 This makes the contents of the files completely unavailable to anyone using WinRAR, Luyten and every other zip viewer I have seen.
