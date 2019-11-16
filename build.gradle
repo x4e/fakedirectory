@@ -34,7 +34,6 @@ task sourcesJar(type: Jar) {
     from sourceSets.main.allSource
 }
 
-artifacts
-{
+artifacts {
     archives javadocJar, sourcesJar
 }
