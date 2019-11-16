@@ -8,7 +8,7 @@ One usage of this is as a form of Java Jar obfuscation. The JVM is not vulnerabl
 
 This could also have malicious uses, such as to hide malware within a zip file. I have not tested whether anti viruses are vulnerable, however there is a possibility that some might be. This is why this needs to be publicised so that it can be fixed.
 
-Credit to @Cubxity and @half-cambodian-hacker-man for providing information on discord.
+Credit to [@Cubxity](https://github.com/Cubxity) and [@half-cambodian-hacker-man](https://github.com/half-cambodian-hacker-man) for providing information on discord.
 
 ## Usage
 `java -jar fakedirectory.jar exampleJar.jar` will replace all class files within the jar with a fake directory.
