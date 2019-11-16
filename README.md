@@ -16,15 +16,15 @@ Credit to @Cubxity and @half-cambodian-hacker-man for providing information on d
 ## Examples of vulnerable applications
 Winrar
 
-![https://i.imgur.com/pKn2FOO.png](WinRAR Failing)
+![WinRAR Failing](https://i.imgur.com/pKn2FOO.png)
 
 Luyten
 
-![https://i.imgur.com/rkkUNEJ.png](Luyten Failing)
+![Luyten Failing](https://i.imgur.com/rkkUNEJ.png)
 
 JByteMod
 
-![https://i.imgur.com/awhPq65.png](JByteMod Failing)
+![JByteMod Failing](https://i.imgur.com/awhPq65.png)
 
 
 Only use this for educational purposes.
